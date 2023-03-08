@@ -33,7 +33,7 @@ public class UsuarioRepositoryTest {
 
         usuarioRepository.save(new Usuario(0L, "Zuma Brito", "zuma@email.com", "13465278", "https://i.imgur.com/FETvs2O.jpg"));
 
-        usuarioRepository.save(new Usuario(0L, "Maya Soares", "maya@email.com", "13465278", "https://i.imgur.com/NtyGneo.jpg"));
+        usuarioRepository.save(new Usuario(0L, "Maya Brito", "maya@email.com", "13465278", "https://i.imgur.com/NtyGneo.jpg"));
 
         usuarioRepository.save(new Usuario(0L, "Katie Brito", "katie@email.com", "13465278", "https://i.imgur.com/mB3VM2N.jpg"));
 
